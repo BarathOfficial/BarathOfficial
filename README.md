@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barath
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... python and c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Compiler Design
+- 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ...  barathofficial25@gmail.com
 
 <!---
