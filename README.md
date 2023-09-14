@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barath
-- 👀 I’m interested in ... programming
-- 💞️ I’m looking to collaborate on ... Web Development
+- 👀 I’m interested in ... programming, collaborating
+- 💞️ I’m looking to collaborate on ... Web Development, Mobile App Development
 - 📫 How to reach me ...  barathofficial25@gmail.com
 
 <!---
